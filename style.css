@@ -1,0 +1,32 @@
+html{
+    margin-left: 40%;
+    margin-top: 10%;
+}
+button{
+    width: 75px;
+    height: 38px;
+    border: 3px solid whitesmoke;
+    margin-top: 1px;
+    border-radius: 5px;
+    
+}
+.egale{
+    color: tomato;
+}
+button:hover{
+   background-color: #B6CDD4;
+}
+
+input{
+    width: 228px;
+    height: 100px;
+    border: 2px solid #D4C5B6;
+    border-radius: 5px;
+    font-size: 30px;
+    background-color: #CBD4C0;
+}
+
+
+.SUP{
+   width: 233px;
+}
